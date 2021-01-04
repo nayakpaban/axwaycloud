@@ -1,0 +1,4 @@
+app: axway-authentication
+ip: 125.444.8443
+port: 8444
+version: 1.2
